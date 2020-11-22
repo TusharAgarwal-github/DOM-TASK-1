@@ -275,7 +275,7 @@ edHeader.innerText = 'Education'
 const tab2 = document.createElement('table')
 const tr_2 = document.createElement('tr')
 const td_3 = document.createElement('td')
-td_3.innerHTML = 'B.E Computer Science & Engineering &nbsp;&nbsp;'
+td_3.innerHTML = 'B.Tech Computer Science & Engineering &nbsp;&nbsp;'
 const td_4 = document.createElement('td')
 td_4.innerText = 'August, 2016 to July, 2020'
 
